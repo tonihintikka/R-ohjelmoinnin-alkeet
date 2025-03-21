@@ -20,11 +20,11 @@ Tämän projektin tarkoituksena on luoda aloittelijaystävällinen suomenkieline
 - [x] Kommentointi koodissa
 
 ### 3. Datan tuonti ja käsittely
-- [ ] Datan lukeminen eri tiedostomuodoista (CSV, Excel, tekstitiedostot)
-- [ ] Datan esikäsittely ja puhdistus
-- [ ] Puuttuvien arvojen käsittely
-- [ ] Datan suodattaminen
-- [ ] Uusien muuttujien luominen
+- [x] Datan lukeminen eri tiedostomuodoista (CSV, Excel, tekstitiedostot)
+- [x] Datan esikäsittely ja puhdistus
+- [x] Puuttuvien arvojen käsittely
+- [x] Datan suodattaminen
+- [x] Uusien muuttujien luominen
 
 ### 4. Datan visualisointi
 - [ ] Peruskuvaajat (pylväsdiagrammi, piirakkakaavio, viivakuvaaja)
@@ -45,9 +45,11 @@ Tämän projektin tarkoituksena on luoda aloittelijaystävällinen suomenkieline
 - [ ] Raporttien vienti eri formaatteihin (PDF, HTML, Word)
 
 ### 7. Harjoitustehtävät ja projektit
-- [ ] Harjoitustehtävät jokaiseen osioon
+- [x] Harjoitustehtävät osioon 3 (Datan tuonti ja käsittely)
+- [ ] Harjoitustehtävät muihin osioihin
 - [ ] Itsenäiset pienprojektit
-- [ ] Mallivastaukset
+- [x] Mallivastaukset osion 3 harjoituksiin
+- [ ] Mallivastaukset muiden osioiden harjoituksiin
 - [ ] Tehtävien vaikeustason merkintä
 
 ## Materiaalit
@@ -55,7 +57,7 @@ Tämän projektin tarkoituksena on luoda aloittelijaystävällinen suomenkieline
 ### Cheatsheet-materiaalit
 - [x] R-kielen peruskomentojen cheatsheet
 - [ ] Datan visualisoinnin cheatsheet
-- [ ] Datan käsittelyn cheatsheet
+- [x] Datan käsittelyn cheatsheet
 - [ ] Tilastollisten analyysien cheatsheet
 
 ### Oheismateriaalit
@@ -65,8 +67,9 @@ Tämän projektin tarkoituksena on luoda aloittelijaystävällinen suomenkieline
 
 ## Toteutus
 - [x] Luoda kansiorakenne materiaaleille
-- [ ] Valita käytettävät esimerkkidatasetit
-- [ ] Suunnitella harjoitustehtävien rakenne ja vaikeustasot
+- [x] Valita käytettävät esimerkkidatasetit
+- [x] Suunnitella harjoitustehtävien rakenne (osio 3)
+- [ ] Suunnitella harjoitustehtävien rakenne (muut osiot)
 - [ ] Toteuttaa kaikki yllä mainitut materiaalit
 - [ ] Testata materiaalit aloittelijoilla
 - [ ] Kerätä palaute ja tehdä korjaukset

@@ -6,14 +6,21 @@ Tervetuloa R-ohjelmoinnin alkeiden opiskeluun! Tämä materiaalipaketti on suunn
 
 Tämä materiaalipaketti sisältää seuraavat osiot:
 
-1. **Johdanto R-ohjelmointiin**: Mitä R on ja mihin sitä käytetään
-2. **R-ympäristön asennus**: Kuinka asentaa R ja RStudio
-3. **R-kielen perusteet**: Muuttujat, tietotyypit, operaattorit ja perusrakenteet
-4. **Datan tuonti ja käsittely**: Tiedostojen lukeminen ja datan muokkaus
-5. **Datan visualisointi**: Kuvaajien luominen R:llä
-6. **Tilastolliset analyysit**: Perustilastoanalyysien tekeminen R:llä
-7. **R Markdown**: Raporttien luominen
-8. **Harjoitustehtävät**: Käytännön tehtäviä taitojen kehittämiseen
+1. **[Johdanto R-ohjelmointiin](1-johdanto/README.md)**: Mitä R on ja mihin sitä käytetään
+2. **[R-ympäristön asennus](2-asennus/README.md)**: Kuinka asentaa R ja RStudio
+3. **[R-kielen perusteet](3-perusteet/README.md)**: Muuttujat, tietotyypit, operaattorit ja perusrakenteet
+4. **[Datan tuonti ja käsittely](3-datan-tuonti-ja-kasittely/README.md)**: Tiedostojen lukeminen ja datan muokkaus
+   - [Esimerkkiskriptit](3-datan-tuonti-ja-kasittely/esimerkit/)
+     - [Datan lukeminen](3-datan-tuonti-ja-kasittely/esimerkit/1-datan-lukeminen.R)
+     - [Datan puhdistus](3-datan-tuonti-ja-kasittely/esimerkit/2-datan-puhdistus.R)
+     - [Datan suodatus ja muunnokset](3-datan-tuonti-ja-kasittely/esimerkit/3-datan-suodatus-ja-muunnokset.R)
+     - [Datan yhdistäminen](3-datan-tuonti-ja-kasittely/esimerkit/4-datan-yhdistaminen.R)
+   - [Harjoitustehtävät](3-datan-tuonti-ja-kasittely/harjoitukset.R)
+   - [Datan käsittelyn cheatsheet](3-datan-tuonti-ja-kasittely/datan-kasittely-cheatsheet.md)
+5. **Datan visualisointi**: Kuvaajien luominen R:llä (tulossa)
+6. **Tilastolliset analyysit**: Perustilastoanalyysien tekeminen R:llä (tulossa)
+7. **R Markdown**: Raporttien luominen (tulossa)
+8. **Harjoitustehtävät**: Käytännön tehtäviä taitojen kehittämiseen (tulossa)
 
 ## Kenelle materiaali on tarkoitettu?
 
@@ -32,7 +39,7 @@ Suosittelemme etenemään materiaaleissa järjestyksessä, sillä myöhemmät os
 Materiaalipakettiin kuuluu myös cheatsheetejä, jotka toimivat nopeina referensseinä:
 
 - [R-peruskomentojen cheatsheet](R-peruskomentojen-cheatsheet.md): Kooste R-kielen perusteista
-- Muut cheatsheetit tulossa...
+- [Datan käsittelyn cheatsheet](3-datan-tuonti-ja-kasittely/datan-kasittely-cheatsheet.md): Kooste datan tuonnin ja käsittelyn komennoista
 
 ## Projektin tila
 
