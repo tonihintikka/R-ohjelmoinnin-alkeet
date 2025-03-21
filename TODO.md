@@ -27,10 +27,10 @@ Tämän projektin tarkoituksena on luoda aloittelijaystävällinen suomenkieline
 - [x] Uusien muuttujien luominen
 
 ### 4. Datan visualisointi
-- [ ] Peruskuvaajat (pylväsdiagrammi, piirakkakaavio, viivakuvaaja)
-- [ ] ggplot2-kirjaston perusteet
-- [ ] Kuvaajien muokkaaminen ja hienosäätö
-- [ ] Useiden kuvaajien yhdistäminen
+- [x] Peruskuvaajat (pylväsdiagrammi, piirakkakaavio, viivakuvaaja)
+- [x] ggplot2-kirjaston perusteet
+- [x] Kuvaajien muokkaaminen ja hienosäätö
+- [x] Useiden kuvaajien yhdistäminen
 
 ### 5. Tilastolliset analyysit
 - [ ] Kuvailevat tunnusluvut
@@ -46,9 +46,11 @@ Tämän projektin tarkoituksena on luoda aloittelijaystävällinen suomenkieline
 
 ### 7. Harjoitustehtävät ja projektit
 - [x] Harjoitustehtävät osioon 3 (Datan tuonti ja käsittely)
+- [x] Harjoitustehtävät osioon 4 (Datan visualisointi)
 - [ ] Harjoitustehtävät muihin osioihin
 - [ ] Itsenäiset pienprojektit
 - [x] Mallivastaukset osion 3 harjoituksiin
+- [x] Mallivastaukset osion 4 harjoituksiin
 - [ ] Mallivastaukset muiden osioiden harjoituksiin
 - [ ] Tehtävien vaikeustason merkintä
 
@@ -56,7 +58,7 @@ Tämän projektin tarkoituksena on luoda aloittelijaystävällinen suomenkieline
 
 ### Cheatsheet-materiaalit
 - [x] R-kielen peruskomentojen cheatsheet
-- [ ] Datan visualisoinnin cheatsheet
+- [x] Datan visualisoinnin cheatsheet
 - [x] Datan käsittelyn cheatsheet
 - [ ] Tilastollisten analyysien cheatsheet
 
@@ -69,6 +71,7 @@ Tämän projektin tarkoituksena on luoda aloittelijaystävällinen suomenkieline
 - [x] Luoda kansiorakenne materiaaleille
 - [x] Valita käytettävät esimerkkidatasetit
 - [x] Suunnitella harjoitustehtävien rakenne (osio 3)
+- [x] Suunnitella harjoitustehtävien rakenne (osio 4)
 - [ ] Suunnitella harjoitustehtävien rakenne (muut osiot)
 - [ ] Toteuttaa kaikki yllä mainitut materiaalit
 - [ ] Testata materiaalit aloittelijoilla

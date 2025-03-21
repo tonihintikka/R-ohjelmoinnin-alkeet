@@ -17,7 +17,14 @@ Tämä materiaalipaketti sisältää seuraavat osiot:
      - [Datan yhdistäminen](3-datan-tuonti-ja-kasittely/esimerkit/4-datan-yhdistaminen.R)
    - [Harjoitustehtävät](3-datan-tuonti-ja-kasittely/harjoitukset.R)
    - [Datan käsittelyn cheatsheet](3-datan-tuonti-ja-kasittely/datan-kasittely-cheatsheet.md)
-5. **Datan visualisointi**: Kuvaajien luominen R:llä (tulossa)
+5. **[Datan visualisointi](4-datan-visualisointi/README.md)**: Kuvaajien luominen R:llä
+   - [Esimerkkiskriptit](4-datan-visualisointi/esimerkit/)
+     - [Peruskuvaajat](4-datan-visualisointi/esimerkit/1-peruskuvaajat.R)
+     - [ggplot2-kuvaajat](4-datan-visualisointi/esimerkit/2-ggplot2-kuvaajat.R)
+     - [Edistyneet visualisoinnit](4-datan-visualisointi/esimerkit/3-edistyneet-visualisoinnit.R)
+     - [Kattava visualisointiesimerkki](4-datan-visualisointi/esimerkit/4-kattava-visualisointiesimerkki.R)
+   - [Harjoitustehtävät](4-datan-visualisointi/harjoitukset.R)
+   - [Visualisoinnin cheatsheet](4-datan-visualisointi/visualisointi-cheatsheet.md)
 6. **Tilastolliset analyysit**: Perustilastoanalyysien tekeminen R:llä (tulossa)
 7. **R Markdown**: Raporttien luominen (tulossa)
 8. **Harjoitustehtävät**: Käytännön tehtäviä taitojen kehittämiseen (tulossa)
@@ -40,6 +47,7 @@ Materiaalipakettiin kuuluu myös cheatsheetejä, jotka toimivat nopeina referens
 
 - [R-peruskomentojen cheatsheet](R-peruskomentojen-cheatsheet.md): Kooste R-kielen perusteista
 - [Datan käsittelyn cheatsheet](3-datan-tuonti-ja-kasittely/datan-kasittely-cheatsheet.md): Kooste datan tuonnin ja käsittelyn komennoista
+- [Visualisoinnin cheatsheet](4-datan-visualisointi/visualisointi-cheatsheet.md): Kooste visualisointiin liittyvistä komennoista
 
 ## Projektin tila
 
